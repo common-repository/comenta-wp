@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Oriol Farr i Miquel Laboria
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/comenta-wp\n"
+"POT-Creation-Date: 2009-05-11 17:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: comenta-wp.php:237
+msgid "%a has commented in %t: %u"
+msgstr ""
+
+#: comenta-wp.php:245
+msgid "Comenta WP configuration"
+msgstr ""
+
+#: comenta-wp.php:250
+msgid ""
+"Introduce your Twitter user and password. All the comments made to your blog "
+"will be posted directly to this twitter account."
+msgstr ""
+
+#: comenta-wp.php:256
+msgid "Twitter user name:"
+msgstr ""
+
+#: comenta-wp.php:261
+msgid "Twitter password:"
+msgstr ""
+
+#: comenta-wp.php:266
+msgid "Message:"
+msgstr ""
+
+#: comenta-wp.php:270
+msgid "<strong>%a:</strong> Comment Author"
+msgstr ""
+
+#: comenta-wp.php:271
+msgid "<strong>%t:</strong> Post title"
+msgstr ""
+
+#: comenta-wp.php:272
+#, php-format
+msgid "<strong>%u:</strong> Post link"
+msgstr ""
+
+#: comenta-wp.php:278
+msgid "URL Shorten Service:"
+msgstr ""
+
+#: comenta-wp.php:287
+msgid ""
+"<strong>Twitter.com:</strong> Let twitter choose if the URL must be "
+"shortened or not."
+msgstr ""
+
+#: comenta-wp.php:297
+msgid "Save Changes"
+msgstr ""
+
+#: comenta-wp.php:312
+msgid "Comenta WP is almost configured."
+msgstr ""
+
+#: comenta-wp.php:312
+#, php-format
+msgid ""
+"You have to configure you <a href = \"%1$s\">twitter username and password</"
+"a>."
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Comenta WP"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  plugin.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://comenta.bloks.cat"
+msgstr ""
+
+#. Description of an extension
+msgid "Publish all your comments directly to a twitter account."
+msgstr ""
+
+#. Author of an extension
+msgid "Oriol Farr i Miquel Laboria"
+msgstr ""

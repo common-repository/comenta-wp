@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comenta WP\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/comenta-wp\n"
+"POT-Creation-Date: 2009-05-11 17:02+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gea IPC <info@geaipc.com>\n"
+"Language-Team: Miquel Labòria <mlaboria@bloks.cat>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+
+#: comenta-wp.php:237
+msgid "%a has commented in %t: %u"
+msgstr "%a ha comentado en %t: %u"
+
+#: comenta-wp.php:245
+msgid "Comenta WP configuration"
+msgstr "Configuración del Comenta WP"
+
+#: comenta-wp.php:250
+msgid "Introduce your Twitter user and password. All the comments made to your blog will be posted directly to this twitter account."
+msgstr "Introduce tu usuario y contraseña de Twitter. Todos los comentarios de tu blog se mandaran directamente a esta cuenta de Twitter."
+
+#: comenta-wp.php:256
+msgid "Twitter user name:"
+msgstr "Usuario Twitter:"
+
+#: comenta-wp.php:261
+msgid "Twitter password:"
+msgstr "Contraseña Twitter:"
+
+#: comenta-wp.php:266
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: comenta-wp.php:270
+msgid "<strong>%a:</strong> Comment Author"
+msgstr "<strong>%a:</strong> Autor del comentario"
+
+#: comenta-wp.php:271
+msgid "<strong>%t:</strong> Post title"
+msgstr "<strong>%t:</strong> Titulo del post"
+
+#: comenta-wp.php:272
+#, php-format
+msgid "<strong>%u:</strong> Post link"
+msgstr "<strong>%u:</strong> Enlace del post"
+
+#: comenta-wp.php:278
+msgid "URL Shorten Service:"
+msgstr "Servicio para acortar URL:"
+
+#: comenta-wp.php:287
+msgid "<strong>Twitter.com:</strong> Let twitter choose if the URL must be shortened or not."
+msgstr "<strong>Twitter.com:</strong> Twitter elegirá si se tiene que acortar la URL o no."
+
+#: comenta-wp.php:297
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: comenta-wp.php:312
+msgid "Comenta WP is almost configured."
+msgstr "Comenta WP está casi configurado."
+
+#: comenta-wp.php:312
+#, php-format
+msgid "You have to configure you <a href = \"%1$s\">twitter username and password</a>."
+msgstr "Tienes que configurar tu <a href = \"%1$s\">usuario y contraseña</a> de Twitter."
+
+#. Plugin Name of an extension
+msgid "Comenta WP"
+msgstr "Comenta WP"
+
+#. #-#-#-#-#  plugin.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  plugin.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://comenta.bloks.cat"
+msgstr "http://comenta.bloks.cat"
+
+#. Description of an extension
+msgid "Publish all your comments directly to a twitter account."
+msgstr "Publica todos los comentarios directamente a una cuenta de Twitter."
+
+#. Author of an extension
+msgid "Oriol Farr i Miquel Laboria"
+msgstr "Oriol Farre y Miquel Laboria"
+
